@@ -1,6 +1,5 @@
-<!---
-OshedheMunasinghe/OshedheMunasinghe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Welcome to my Github Page </b></center>
 
-I will update this later! Stay tuned :)
+
+   <img src="https://img.icons8.com/nolan/64/windows-10.png" />
+  
